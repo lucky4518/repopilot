@@ -12,3 +12,5 @@ data/
 
 .vscode/
 .idea/
+
+data/qdrant/
